@@ -1,5 +1,5 @@
 public class Employee{
-  private String firstName;
-  private String lastName;  
+  private String employeeFirstName;
+  private String employeeLastName;  
   private String employeeIpn;
 }
